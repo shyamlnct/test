@@ -17,5 +17,8 @@ export class HeroesComponent implements OnInit {
 
   ngOnInit() {
   }
+   test(){
+    return 'hello world';
+  }
 
 }
